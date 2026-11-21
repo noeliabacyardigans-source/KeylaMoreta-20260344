@@ -1,0 +1,51 @@
+hr {
+    border: none;
+    border-top: 3px dashed #e62284;
+    margin: 20px 0;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+header {
+    color: rgb(1, 1, 75);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Tituloprofesion {
+    text-align: center;
+    color: #e62284;
+}
+
+h1 {
+    color: rgb(1, 1, 75);
+    text-align: center;
+    background-color: cornflowerblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30px
+}
+
+
+h2 {
+
+    color: rgb(1, 1, 75);
+    background-color:cornflowerblue ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif4;
+    padding: 15px;
+}
+
+main {
+  
+    color: rgb(1, 1, 75);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3 {
+    color: #e62284;
+}
+
+footer {
+    color: rgb(1, 1, 75);
+}
